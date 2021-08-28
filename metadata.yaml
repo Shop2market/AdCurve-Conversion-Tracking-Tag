@@ -1,0 +1,5 @@
+homepage: "https://adcurve.com"
+documentation: "https://github.com/Shop2market/AdCurve-Conversion-Tracking-Tag/blob/master/README.md"
+versions:
+  - sha: 
+    changeNotes: Initial release.
